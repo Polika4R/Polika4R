@@ -13,7 +13,7 @@ En este espacio voy a ir compartiendo:
 - 📝 **Mis apuntes** de estudio relacionados con ciberseguridad.  
 - 🎥 **Mis vídeos de YouTube**, donde resuelvo y explico máquinas paso a paso.  
 
-📺 Te invito a visitar mi canal de YouTube:  
+📺 Te invito a visitar mi canal de YouTube, canal dedicado a la resolución de máquinas de Pentesting de la plataforma Hack The Box:  
 👉 [@prequenam](https://www.youtube.com/@prequenam)  
 
 ---
