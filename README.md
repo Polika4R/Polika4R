@@ -1,6 +1,6 @@
 # 👨‍💻 Pol Requena  
 
-¡Hola! Soy **Pol Requena**, un chico de **26 años apasionado por la ciberseguridad**.  
+¡Hola! Soy **Pol Requena**, un chico de **26 años apasionado por la ciberseguridad ofensiva (RED TEAM)**.  
 
 Actualmente estoy cursando en la **UOC** el *Máster en Ciberseguridad y Privacidad de Datos*, mientras me preparo para obtener dos certificaciones muy reconocidas en el sector:  
 - 🎯 **CPTS (Certified Penetration Testing Specialist) – HTB**  
