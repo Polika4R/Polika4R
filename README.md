@@ -1,22 +1,24 @@
-👋 Hi! I'm Pol
+# 👨‍💻 Pol Requena  
 
-🛡️ About Me
+¡Hola! Soy **Pol Requena**, un chico de **26 años apasionado por la ciberseguridad**.  
 
-I am a cybersecurity engineer from UOC, specialized in penetration testing. Currently, I am preparing to obtain the eJPTv2 and eCPPT certifications.
+Actualmente estoy cursando en la **UOC** el *Máster en Ciberseguridad y Privacidad de Datos*, mientras me preparo para obtener dos certificaciones muy reconocidas en el sector:  
+- 🎯 **CPTS (Certified Penetration Testing Specialist) – HTB**  
+- 🎯 **OSCP (Offensive Security Certified Professional)**  
 
-In my free time, I enjoy solving machines on the Hack The Box platform and learning new ethical hacking techniques.
+---
 
-🚀 What You'll Find on My GitHub
+## 📚 ¿Qué encontrarás en este GitHub?  
+En este espacio voy a ir compartiendo:  
+- 📝 **Mis apuntes** de estudio relacionados con ciberseguridad.  
+- 🎥 **Mis vídeos de YouTube**, donde resuelvo y explico máquinas paso a paso.  
 
-✔️ Pentesting Scripts: Tools and automation for security testing.✔️ CTF Challenges & Write-ups: Solutions and explanations for challenges I solve.
+📺 Te invito a visitar mi canal de YouTube:  
+👉 [@prequenam](https://www.youtube.com/@prequenam)  
 
-📡 Connect with Me
+---
 
-🌍 Hack The Box
-
-💼 LinkedIn
-
-🛠️ TryHackMe
-
-If you have any suggestions or want to collaborate, feel free to reach out! 🚀
-
+## 🚀 Objetivos  
+- Seguir aprendiendo y mejorando en el campo de la ciberseguridad ofensiva y defensiva.  
+- Documentar mi progreso para ayudar a otras personas que también estén en este camino.  
+- Crear una comunidad donde podamos compartir conocimientos y experiencias.  
