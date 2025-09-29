@@ -10,7 +10,7 @@ Actualmente estoy cursando en la **UOC** el *Máster en Ciberseguridad y Privaci
 
 ## 📚 ¿Qué encontrarás en este GitHub?  
 En este espacio voy a ir compartiendo:  
-- 📝 **Mis apuntes** de estudio relacionados con ciberseguridad. Los puedes encontrar aquí: [Camino a la CPTS-OSCP](https://github.com/Polika4R/Camino-a-la-CPTS)
+- 📝 **Mis apuntes** de estudio relacionados con ciberseguridad. Los puedes encontrar aquí: [Camino a la CPTS-OSCP](https://github.com/Polika4R/Camino-a-la-OSCP-CPTS)
 - 🎥 **Mis vídeos de YouTube**, donde resuelvo y explico máquinas paso a paso.  
 
 📺 Te invito a visitar mi canal de YouTube, canal dedicado a la resolución de máquinas de Pentesting de la plataforma Hack The Box:  
