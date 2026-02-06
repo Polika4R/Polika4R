@@ -1,4 +1,4 @@
-# 👨‍💻 Pol Requena  
+#  Pol Requena  
 
 ¡Hola! Soy **Pol Requena**, un chico de **26 años apasionado por la ciberseguridad ofensiva (RED TEAM)**.  
 
@@ -8,7 +8,7 @@ Actualmente estoy cursando en la **UOC** el *Máster en Ciberseguridad y Privaci
 
 ---
 
-## 📚 ¿Qué encontrarás en este GitHub?  
+##  ¿Qué encontrarás en este GitHub?  
 En este espacio voy a ir compartiendo:  
 - 📝 **Mis apuntes** de estudio relacionados con ciberseguridad. Los puedes encontrar aquí: [Camino a la CPTS-OSCP](https://github.com/Polika4R/Camino-a-la-OSCP-CPTS)
 - 🎥 **Mis vídeos de YouTube**, donde resuelvo y explico máquinas paso a paso.  
@@ -18,7 +18,7 @@ En este espacio voy a ir compartiendo:
 
 ---
 
-## 🚀 Objetivos  
+## Mis objetivos  
 - Seguir aprendiendo y mejorando en el campo de la ciberseguridad ofensiva y defensiva.  
 - Documentar mi progreso para ayudar a otras personas que también estén en este camino.  
 - Crear una comunidad donde podamos compartir conocimientos y experiencias.  
